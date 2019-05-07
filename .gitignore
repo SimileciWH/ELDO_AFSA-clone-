@@ -1,0 +1,4 @@
+## when git add to ignore this files
+*.mat
+*.swp
+
